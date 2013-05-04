@@ -1,4 +1,4 @@
-= Stories
+# Stories
 
 This is the specification of a tool which describes user stories.
 
